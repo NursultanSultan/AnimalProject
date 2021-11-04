@@ -1,0 +1,14 @@
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\bin\Debug\netcoreapp3.1\AnimalProject.exe
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\bin\Debug\netcoreapp3.1\AnimalProject.deps.json
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\bin\Debug\netcoreapp3.1\AnimalProject.runtimeconfig.json
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\bin\Debug\netcoreapp3.1\AnimalProject.runtimeconfig.dev.json
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\bin\Debug\netcoreapp3.1\AnimalProject.dll
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\bin\Debug\netcoreapp3.1\AnimalProject.pdb
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\obj\Debug\netcoreapp3.1\AnimalProject.csproj.AssemblyReference.cache
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\obj\Debug\netcoreapp3.1\AnimalProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\obj\Debug\netcoreapp3.1\AnimalProject.AssemblyInfoInputs.cache
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\obj\Debug\netcoreapp3.1\AnimalProject.AssemblyInfo.cs
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\obj\Debug\netcoreapp3.1\AnimalProject.csproj.CoreCompileInputs.cache
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\obj\Debug\netcoreapp3.1\AnimalProject.dll
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\obj\Debug\netcoreapp3.1\AnimalProject.pdb
+C:\Users\tu201903198\Desktop\AnimalProject\AnimalProject\obj\Debug\netcoreapp3.1\AnimalProject.genruntimeconfig.cache
